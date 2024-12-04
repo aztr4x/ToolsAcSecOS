@@ -1,0 +1,10 @@
+#!/home/debian/Documents/ToolsAcSecOS/ataque/reportes/faraday/faraday_venv/bin/python3
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from faraday.telemetry import main
+
+
+if __name__ == "__main__":
+    sys.exit(main())
